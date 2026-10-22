@@ -1,0 +1,3 @@
+-- Extension point: vim-dadbod + vim-dadbod-ui (not required from init.lua).
+-- When added, load this module lazily from a FileType = "sql" autocmd or a
+-- user command (e.g. :DBUI). Never put connections or credentials in this repo.

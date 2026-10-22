@@ -1,0 +1,3 @@
+[filesystem "Amazon.com Inc.|21.0.12|-361970848"]
+	timestampResolution = 1094 microseconds
+	minRacyThreshold = 0 nanoseconds
