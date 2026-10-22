@@ -42,3 +42,5 @@ luac.out
 
 # Machine-local Neovim runtime/plugin data
 /nvim-data/
+
+jgit/
